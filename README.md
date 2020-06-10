@@ -1,4 +1,4 @@
-<img src="./screenshots/background.png" alt="Background image of the project"/>
+<img src="https://github.com/pferreirafabricio/react-native-ecoleta/blob/master/screenshots/background.png" alt="Background image of the project"/>
 
 ## Routes 
 ```javascript
